@@ -1,6 +1,6 @@
 <?php
 /*
- * Author: Kaine van Ommere & Daan Wolfert
+ * Author: Kaine van Ommeren & Daan Wolfert
  * Date: 30-03-2022
  */
 ?>
@@ -14,7 +14,9 @@
     <title>ICT Academie</title>
 </head>
     <header>
-
+        <?php
+            include "./include/navigation.php";
+        ?>
     </header>
     <body>
         <h2>
