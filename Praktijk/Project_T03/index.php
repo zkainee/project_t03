@@ -3,7 +3,6 @@
  * Author: Kaine van Ommere & Daan Wolfert
  * Date: 30-03-2022
  */
-
 ?>
 <!doctype html>
 <html lang="nl">
@@ -18,6 +17,9 @@
 
     </header>
     <body>
+        <h2>
 
+            lorem ipsum dolor sit amet
+        </h2>
     </body>
 </html>
