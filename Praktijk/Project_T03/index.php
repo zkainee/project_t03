@@ -25,4 +25,9 @@
             lorem ipsum dolor sit amet
         </h2>
     </body>
+<footer>
+    <?php
+    include "./include/footer.php";
+    ?>
+</footer>
 </html>

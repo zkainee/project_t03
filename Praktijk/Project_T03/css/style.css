@@ -3,8 +3,29 @@
   Date: 31-03-2022
   File: style.css
  */
+body
+{
+    margin: 0;
+}
 li
 {
     float: left;
     width: 17vw;
+}
+footer
+{
+    position: fixed;
+    bottom: 0;
+    background-color: #0085ca;
+    width: 100vw;
+    height: 60px;
+}
+.icons
+{
+    float: right;
+    margin: -30px 0px 10px 10px;
+}
+#white
+{
+    color: white;
 }
