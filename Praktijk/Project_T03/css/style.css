@@ -1,0 +1,10 @@
+/*
+  Author: Kaine van Ommeren & Daan Wolfert
+  Date: 31-03-2022
+  File: style.css
+ */
+li
+{
+    float: left;
+    width: 17vw;
+}
