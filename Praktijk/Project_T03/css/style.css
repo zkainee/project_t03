@@ -6,11 +6,29 @@
 body
 {
     margin: 0;
+    scroll-behavior: smooth;
 }
 li
 {
     float: left;
     width: 17vw;
+}
+ul
+{
+    list-style-type: none;
+
+}
+a
+{
+    color: white;
+}
+a:visited
+{
+    color: white;
+}
+a:hover
+{
+    color: white;
 }
 footer
 {
