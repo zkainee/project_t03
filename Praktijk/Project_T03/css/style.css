@@ -3,39 +3,47 @@
   Date: 31-03-2022
   File: style.css
  */
+nav ul
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #0085ca;
+    font-family: Arial;
+    font-size: 15px;
+    text-align: center;
+    padding-left: 10%;
+}
+
+nav li
+{
+    width: 16%;
+    float: left;
+    text-align: center;
+}
+
+nav li a
+{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 25px 10px;
+    text-decoration: none;
+}
+nav li a:hover
+{
+    background-color: white;
+    color: #0085ca;
+}
+
+
 body
 {
     margin: 0;
     scroll-behavior: smooth;
 }
-li
-{
-    float: left;
-    width: 17vw;
 
-}
-ul
-{
-    list-style-type: none;
-}
-li a
-{
-    color: white;
-    text-decoration: none;
-    display: block;
-    padding: 25px 20px;
-}
-a:visited
-{
-    color: white;
-}
-li a:hover
-{
-    background-color: white;
-    color: #0085ca;
-    transform: scale(1.1);
-    transition: 0.3s;
-}
 footer
 {
     position: fixed;
@@ -53,15 +61,23 @@ footer
 {
     color: white;
 }
-nav
-{
-    background-color: #0085ca;
-    width: 100%;
-    position: fixed;
-    top: 0;
-}
+
 
 @media only screen and (max-width: 745px)
 {
 
+}
+.logokw1c
+{
+    position: fixed;
+    top: 2px;
+    left: 5px;
+    width: 5vw;
+}
+.hamburger
+{
+    position: fixed;
+    top: 20px;
+    right: 10px;
+    width: 3vw;
 }

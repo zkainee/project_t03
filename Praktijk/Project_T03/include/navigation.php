@@ -5,6 +5,7 @@
  * File: navigation.php
  */
 ?>
+<img class="logokw1c" src="./images/kw1clogo.svg">
 <nav>
     <ul>
         <li><a href='../index.php'>Opleidingen</a></li>
@@ -14,3 +15,4 @@
         <li><a href='../pages/zelftest.php'>Zelftest</a></li>
     </ul>
 </nav>
+<img class="hamburger" src="./images/hamburger.png">
