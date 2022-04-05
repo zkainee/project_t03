@@ -12,23 +12,29 @@ li
 {
     float: left;
     width: 17vw;
+
 }
 ul
 {
     list-style-type: none;
-
 }
-a
+li a
 {
     color: white;
+    text-decoration: none;
+    display: block;
+    padding: 25px 20px;
 }
 a:visited
 {
     color: white;
 }
-a:hover
+li a:hover
 {
-    color: white;
+    background-color: white;
+    color: #0085ca;
+    transform: scale(1.1);
+    transition: 0.3s;
 }
 footer
 {
@@ -47,6 +53,14 @@ footer
 {
     color: white;
 }
+nav
+{
+    background-color: #0085ca;
+    width: 100%;
+    position: fixed;
+    top: 0;
+}
+
 @media only screen and (max-width: 745px)
 {
 
