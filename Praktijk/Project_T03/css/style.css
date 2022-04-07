@@ -3,81 +3,135 @@
   Date: 31-03-2022
   File: style.css
  */
-nav ul
-{
-    list-style-type: none;
+body {
     margin: 0;
     padding: 0;
-    overflow: hidden;
-    background-color: #0085ca;
-    font-family: Arial;
-    font-size: 15px;
-    text-align: center;
-    padding-left: 10%;
-}
-
-nav li
-{
-    width: 16%;
-    float: left;
-    text-align: center;
-}
-
-nav li a
-{
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 25px 10px;
-    text-decoration: none;
-}
-nav li a:hover
-{
-    background-color: white;
-    color: #0085ca;
-}
-
-
-body
-{
-    margin: 0;
     scroll-behavior: smooth;
 }
-
-footer
-{
-    position: fixed;
+footer {
+    position: absolute;
     bottom: 0;
     background-color: #0085ca;
-    width: 100vw;
+    width: 100%;
     height: 60px;
 }
-.icons
-{
+
+.icons {
     float: right;
     margin: -30px 0px 10px 10px;
 }
-#white
-{
+
+#white {
     color: white;
+}
+#ictBackground
+{
+    width: 100%;
+}
+
+@media only screen and (min-width: 746px) {
+    nav ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #0085ca;
+        font-family: Arial;
+        font-size: 15px;
+        text-align: center;
+        padding-left: 10%;
+
+    }
+
+    nav li {
+        width: 16%;
+        float: left;
+        text-align: center;
+    }
+
+    nav li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 25px 10px;
+        text-decoration: none;
+    }
+
+    nav li a:hover {
+        background-color: white;
+        color: #0085ca;
+    }
+    .kw1clogo
+    {
+        position: absolute;
+        top: 10px;
+        left: 10px;
+        width: 50px;
+    }
+    .topnav a.icon
+    {
+        color: red;
+        position: relative;
+        left: -100px;
+    }
+    #menuicon
+    {
+        position: absolute;
+        right: 25px;
+        top: 15px;
+        width: 8vw;
+    }
+    .topnav
+    {
+        position: fixed;
+        width: 100vw;
+    }
 }
 
 
 @media only screen and (max-width: 745px)
 {
+    .topnav
+    {
+        overflow: hidden;
+        background-color: #0085ca;
+        position: relative;
+    }
+    .topnav #myLinks
+    {
+        display: none;
+    }
+    .topnav a
+    {
+        color: white;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+        display: block;
+    }
+    .topnav a.icon
+    {
+        background: red;
+        display: block;
+        position: absolute;
+        right: 20px;
+        top: 15px;
 
-}
-.logokw1c
-{
-    position: fixed;
-    top: 2px;
-    left: 5px;
-    width: 5vw;
-}
-.hamburger
-{
-    position: fixed;
-    top: 20px;
-    right: 10px;
-    width: 3vw;
+    }
+
+    .active
+    {
+        background-color: #0085ca;
+        width: 4vw;
+        height: 50px;
+    }
+
+    .kw1clogo
+    {
+        width: 50px;
+    }
+    #menuicon
+    {
+        width: 0;
+    }
 }

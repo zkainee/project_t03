@@ -13,6 +13,7 @@
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
         <title>ICT Academie</title>
         <link href="css/style.css" rel="stylesheet">
+        <script src="js/menu.js"></script>
     </head>
         <header>
             <?php
@@ -20,9 +21,7 @@
             ?>
         </header>
         <body>
-            <h2>
-                lorem ipsum dolor sit amet
-            </h2>
+            <img id="ictBackground" src="images/ictbackground.jpg">
         </body>
     <footer>
         <?php
