@@ -1,7 +1,7 @@
 /*
   Author: Kaine van Ommeren & Daan Wolfert
   Date: 31-03-2022
-  File: style.css
+  File: menu.js
  */
 
 function myFunction() {

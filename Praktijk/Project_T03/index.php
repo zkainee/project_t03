@@ -2,6 +2,7 @@
 /*
  * Author: Kaine van Ommeren & Daan Wolfert
  * Date: 30-03-2022
+ * file: index.php
  */
 ?>
 <!doctype html>
@@ -22,6 +23,11 @@
         </header>
         <body>
             <img id="ictBackground" src="images/ictbackground.jpg">
+
+            <h1 id="ictAcedemie">
+                ICT-Academie
+                <img class="redWhiteline" src="images/redWhiteline.png">
+            </h1>
         </body>
     <footer>
         <?php

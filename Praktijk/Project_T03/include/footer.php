@@ -10,7 +10,7 @@
 </p>
 
 <a target="_blank" rel="instagram" href="http://instagram.com/kw1c">
-<img class="icons" src="./Project_T03/images/instagram.png"></a>
+<img class="icons" src="./images/instagram.png"></a>
 
 <a target="_blank" rel="linkedin" href="https://www.linkedin.com/company/koning-willem-i-college">
 <img class="icons" src="./images/linkedin.png"></a>
