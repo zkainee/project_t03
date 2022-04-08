@@ -14,6 +14,7 @@
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
         <title>ICT Academie</title>
         <link href="css/style.css" rel="stylesheet">
+        <link href="css/style_index.css" rel="stylesheet">
         <link href="css/navigation.css" rel="stylesheet">
         <script src="js/menu.js"></script>
     </head>
@@ -26,9 +27,31 @@
             <img id="ictBackground" src="images/ictbackground.jpg">
 
             <h1 id="ictAcedemie">
-                ICT-Academie
+                ICT-ACADEMIE
                 <img class="redWhiteline" src="images/redWhiteline.png">
             </h1>
+        <article>
+            <h2>
+                De Academie is leuk.
+            </h2>
+            <p>
+                Lorem ipsum dolor sit amet
+            </p>
+        </article>
+        <article>
+            <h2>
+                Group Anonymous is de beste van de gehele academie.
+            </h2>
+            <p>
+                Lorem ipsum dolor sit amet.
+                Lorem ipsum dolor sit amet.
+                Lorem ipsum dolor sit amet.
+                Lorem ipsum dolor sit amet.
+                Lorem ipsum dolor sit amet.
+                Lorem ipsum dolor sit amet.
+
+            </p>
+        </article>
         </body>
     <footer>
         <?php
