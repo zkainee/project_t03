@@ -5,7 +5,7 @@
 * File: footer.php
 */
 ?>
-<p id="white">
+<p class="addFont" id="white">
     Privacyverklaring
 </p>
 

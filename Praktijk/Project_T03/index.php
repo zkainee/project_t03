@@ -14,6 +14,7 @@
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
         <title>ICT Academie</title>
         <link href="css/style.css" rel="stylesheet">
+        <link href="css/navigation.css" rel="stylesheet">
         <script src="js/menu.js"></script>
     </head>
         <header>
