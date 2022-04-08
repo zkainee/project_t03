@@ -15,6 +15,7 @@
         <title>ICT Academie</title>
         <link rel="icon" href="https://www.kw1c.nl/favicon-32x32.png?v=kw1cweb3">
         <link href="../css/style.css" rel="stylesheet">
+        <link href="../css/navigation.css" rel="stylesheet">
     </head>
     <header>
         <?php
