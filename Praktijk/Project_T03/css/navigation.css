@@ -3,6 +3,61 @@ Author: Kaine van Ommeren  & Daan Wolfert
 Date: 08-04-2022
 File: navigation.css
  */
+@media only screen and (min-width: 746px)
+{
+    nav ul
+    {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #0085ca;
+        font-family: Arial;
+        font-size: 15px;
+        text-align: center;
+        padding-left: 10%;
+
+    }
+
+    nav li {
+        width: 16%;
+        float: left;
+        text-align: center;
+    }
+
+    nav li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 25px 10px;
+        text-decoration: none;
+    }
+
+    nav li a:hover {
+        background-color: white;
+        color: #0085ca;
+    }
+    .kw1clogo
+    {
+        position: absolute;
+        top: 10px;
+        left: 10px;
+        width: 50px;
+    }
+
+    #menuicon
+    {
+        position: absolute;
+        right: 25px;
+        top: 15px;
+        width: 8vw;
+    }
+    #menu__toggle
+    {
+        width: 0px;
+    }
+}
+
 
 @media only screen and (max-width: 745px)
 {
@@ -87,5 +142,13 @@ File: navigation.css
 
     .menu__item:hover {
         background-color: #CFD8DC;
+    }
+    .kw1clogo
+    {
+        width: 0;
+    }
+    #menuicon
+    {
+        width: 0;
     }
 }

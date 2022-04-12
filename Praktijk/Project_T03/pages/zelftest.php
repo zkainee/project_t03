@@ -18,7 +18,7 @@
     </head>
     <header>
         <?php
-        include "../include/navigation.php";
+        include "../include/navigation2.php";
         ?>
     </header>
     <body>
