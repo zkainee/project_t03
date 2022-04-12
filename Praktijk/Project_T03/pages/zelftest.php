@@ -29,7 +29,7 @@
     </body>
     <footer>
         <?php
-        include "../include/footer.php";
+        include "../include/footer2.php";
         ?>
     </footer>
 </html>
