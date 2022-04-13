@@ -26,6 +26,45 @@
         <h2>
             lorem ipsum dolor sit amet
         </h2>
+    <form action="zelftest-resultaat.php" method="post">
+        <table>
+            <thead>
+                <h3 class="titleQuestion">Naam vraag
+            </h3>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        <label>Wie heeft Aids</label>
+                    </td>
+                    <td>
+                        <input name="question1" type="radio" value="Jan">Jan
+                    </td>
+                    <td>
+                        <input name="question1" type="radio" value="Piet">Piet
+                    </td>
+                    <td>
+                        <input name="question1" type="radio" value="Klaas">Klaas
+                    </td>
+                    <td>
+                        <input name="question1" type="radio" value="Henk">Henk
+                    </td>
+                    <td>
+                        <input type="submit" value="Verzenden">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label>
+
+                        </label>
+                    </td>
+                </tr>
+            </tbody>
+            <tfoot>
+
+            </tfoot>
+        </table>
     </body>
     <footer>
         <?php
