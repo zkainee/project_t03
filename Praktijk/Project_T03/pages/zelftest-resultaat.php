@@ -36,11 +36,13 @@
         <tr>
             <td>
                 <label>
-                    1.	Ben je een persoon die goed individueel kan werken? - Antwoord is:
+                    1.	Ben je een persoon die goed individueel kan werken?
                 </label>
             </td>
             <td>
+                Antwoord is:
                 <?php
+
                     $question2 = ($_POST['question2']);
                     echo $question2;
                 ?>
@@ -49,10 +51,11 @@
         <tr>
             <td>
                 <label>
-                    2.	Heb je interresse in programmeren? - Antwoord is:
+                    2.	Heb je interresse in programmeren?
                 </label>
             </td>
             <td>
+                Antwoord is:
                 <?php
                 $question3 = ($_POST['question3']);
                 echo $question3;
@@ -62,10 +65,11 @@
         <tr>
             <td>
                 <label>
-                    3.	Kan je gemakkelijk met een laptop omgaan? - Antwoord is:
+                    3.	Kan je gemakkelijk met een laptop omgaan?
                 </label>
             </td>
             <td>
+                Antwoord is:
                 <?php
                 $question4 = ($_POST['question4']);
                 echo $question4;
@@ -75,10 +79,11 @@
         <tr>
             <td>
                 <label>
-                    4.	Kun je goed samenwerken met een groepje, bijv. aan een project? - Antwoord is:
+                    4.	Kun je goed samenwerken met een groepje, bijv. aan een project?
                 </label>
             </td>
             <td>
+                Antwoord is:
                 <?php
                 $question5 = ($_POST['question5']);
                 echo $question5;
@@ -88,10 +93,11 @@
         <tr>
             <td>
                 <label>
-                    5.	Heb je al ervaring met programmeren of met netwerkbeheerder? - Antwoord is:
+                    5.	Heb je al ervaring met programmeren of met netwerkbeheerder?
                 </label>
             </td>
             <td>
+                Antwoord is:
                 <?php
                 $question6 = ($_POST['question6']);
                 echo $question6;
@@ -101,10 +107,11 @@
         <tr>
             <td>
                 <label>
-                    6.	Vind je ICT-onderwerpen interressant? - Antwoord is:
+                    6.	Vind je ICT-onderwerpen interressant?
                 </label>
             </td>
             <td>
+                Antwoord is:
                 <?php
                 $question7 = ($_POST['question7']);
                 echo $question7;
@@ -114,10 +121,11 @@
         <tr>
             <td>
                 <label>
-                    7.	Vind je het leuk om puzzels op te lossen? - Antwoord is:
+                    7.	Vind je het leuk om puzzels op te lossen?
                 </label>
             </td>
             <td>
+                Antwoord is:
                 <?php
                 $question8 = ($_POST['question8']);
                 echo $question8;
@@ -127,10 +135,11 @@
         <tr>
             <td>
                 <label>
-                    8.	Ben je gemotiveerd? - Antwoord is:
+                    8.	Ben je gemotiveerd?
                 </label>
             </td>
             <td>
+                Antwoord is:
                 <?php
                 $question9 = ($_POST['question9']);
                 echo $question9;
@@ -140,10 +149,11 @@
         <tr>
             <td>
                 <label>
-                    9.	Kan je goed plannen? - Antwoord is:
+                    9.	Kan je goed plannen?
                 </label>
             </td>
             <td>
+                Antwoord is:
                 <?php
                 $question10 = ($_POST['question10']);
                 echo $question10;
@@ -153,10 +163,11 @@
         <tr>
             <td>
                 <label>
-                   10. Vind je digitaal leren fijn? - Antwoord is:
+                   10. Vind je digitaal leren
                 </label>
             </td>
             <td>
+                Antwoord is:
                 <?php
                 $question11 = ($_POST['question11']);
                 echo $question11;
@@ -166,10 +177,11 @@
         <tr>
             <td>
                 <label>
-                   11. Is programmeren iets dat je interresseert? - Antwoord is:
+                   11. Is programmeren iets dat je
                 </label>
             </td>
             <td>
+                Antwoord is:
                 <?php
                 $question12 = ($_POST['question12']);
                 echo $question12;
@@ -179,10 +191,11 @@
         <tr>
             <td>
                 <label>
-                    12.	Vind je het leuk om met servers te werken? - Antwoord is:
+                    12.	Vind je het leuk om met servers te werken?
                 </label>
             </td>
             <td>
+                Antwoord is:
                 <?php
                 $question13 = ($_POST['question13']);
                 echo $question13;
@@ -192,10 +205,11 @@
         <tr>
             <td>
                 <label>
-                    13.	 Kan je goed omgaan met veranderingen? - Antwoord is:
+                    13.	 Kan je goed omgaan met veranderingen?
                 </label>
             </td>
             <td>
+                Antwoord is:
                 <?php
                 $question14 = ($_POST['question14']);
                 echo $question14;
@@ -205,10 +219,11 @@
         <tr>
             <td>
                 <label>
-                    14.	 Kan je beter uit een boek leren of digitaal? - Antwoord is:
+                    14.	 Kan je beter uit een boek leren of digitaal?
                 </label>
             </td>
             <td>
+                Antwoord is:
                 <?php
                 $question15 = ($_POST['question15']);
                 echo $question15;
@@ -218,10 +233,11 @@
         <tr>
             <td>
                 <label>
-                    15.	Vind je het leuk om te leren hoe je websites moet maken? - Antwoord is:
+                    15.	Vind je het leuk om te leren hoe je websites moet maken?
                 </label>
             </td>
             <td>
+                Antwoord is:
                 <?php
                 $question16 = ($_POST['question16']);
                 echo $question16;
