@@ -29,6 +29,10 @@
             <thead>
                 <h3 class="titleQuestion">Naam vraag
             </h3>
+            <p id="centerP">
+                Welkom op de vernieuwde zelftest<br>
+                Deze is gemaakt door onze excellente leerlingen genaamd: Daan Wolfert & Kaine van Ommeren.
+            </p>
             </thead>
             <tbody>
                 <tr>
