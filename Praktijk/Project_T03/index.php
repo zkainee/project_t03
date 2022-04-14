@@ -35,7 +35,7 @@
                 De Academie is leuk.
             </h2>
             <p>
-                Lorem ipsum dolor sit amet
+                Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos explicabo facilis numquam, quos ratione reprehenderit sed suscipit voluptas. Assumenda et, explicabo odio perferendis praesentium sit voluptate! Animi cum fugit provident?
             </p>
         </article>
         <article>
