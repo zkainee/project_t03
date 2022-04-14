@@ -41,8 +41,8 @@
             </td>
             <td>
                 <?php
-                    $question1 = ($_POST['question1']);
-                    echo $question1;
+                    $question2 = ($_POST['question2']);
+                    echo $question2;
                 ?>
             </td>
         </tr>
@@ -50,19 +50,6 @@
             <td>
                 <label>
                     2.	Heb je interresse in programmeren? - Antwoord is:
-                </label>
-            </td>
-            <td>
-                <?php
-                $question2 = ($_POST['question2']);
-                echo $question2;
-                ?>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <label>
-                    3.	Kan je gemakkelijk met een laptop omgaan? - Antwoord is:
                 </label>
             </td>
             <td>
@@ -75,7 +62,7 @@
         <tr>
             <td>
                 <label>
-                    4.	Kun je goed samenwerken met een groepje, bijv. aan een project? - Antwoord is:
+                    3.	Kan je gemakkelijk met een laptop omgaan? - Antwoord is:
                 </label>
             </td>
             <td>
@@ -88,7 +75,7 @@
         <tr>
             <td>
                 <label>
-                    5.	Heb je al ervaring met programmeren of met netwerkbeheerder? - Antwoord is:
+                    4.	Kun je goed samenwerken met een groepje, bijv. aan een project? - Antwoord is:
                 </label>
             </td>
             <td>
@@ -101,7 +88,7 @@
         <tr>
             <td>
                 <label>
-                    6.	Vind je ICT-onderwerpen interressant? - Antwoord is:
+                    5.	Heb je al ervaring met programmeren of met netwerkbeheerder? - Antwoord is:
                 </label>
             </td>
             <td>
@@ -114,7 +101,7 @@
         <tr>
             <td>
                 <label>
-                    7.	Vind je het leuk om puzzels op te lossen? - Antwoord is:
+                    6.	Vind je ICT-onderwerpen interressant? - Antwoord is:
                 </label>
             </td>
             <td>
@@ -127,7 +114,7 @@
         <tr>
             <td>
                 <label>
-                    8.	Ben je gemotiveerd? - Antwoord is:
+                    7.	Vind je het leuk om puzzels op te lossen? - Antwoord is:
                 </label>
             </td>
             <td>
@@ -140,7 +127,7 @@
         <tr>
             <td>
                 <label>
-                    9.	Kan je goed plannen? - Antwoord is:
+                    8.	Ben je gemotiveerd? - Antwoord is:
                 </label>
             </td>
             <td>
@@ -153,7 +140,7 @@
         <tr>
             <td>
                 <label>
-                    Vind je digitaal leren fijn? - Antwoord is:
+                    9.	Kan je goed plannen? - Antwoord is:
                 </label>
             </td>
             <td>
@@ -166,7 +153,7 @@
         <tr>
             <td>
                 <label>
-                    Is programmeren iets dat je interresseert? - Antwoord is:
+                   10. Vind je digitaal leren fijn? - Antwoord is:
                 </label>
             </td>
             <td>
@@ -179,7 +166,7 @@
         <tr>
             <td>
                 <label>
-                    12.	Vind je het leuk om met servers te werken? - Antwoord is:
+                   11. Is programmeren iets dat je interresseert? - Antwoord is:
                 </label>
             </td>
             <td>
@@ -192,7 +179,7 @@
         <tr>
             <td>
                 <label>
-                    13.	 Kan je goed omgaan met veranderingen? - Antwoord is:
+                    12.	Vind je het leuk om met servers te werken? - Antwoord is:
                 </label>
             </td>
             <td>
@@ -205,7 +192,7 @@
         <tr>
             <td>
                 <label>
-                    14.	 Kan je beter uit een boek leren of digitaal? - Antwoord is:
+                    13.	 Kan je goed omgaan met veranderingen? - Antwoord is:
                 </label>
             </td>
             <td>
@@ -218,13 +205,26 @@
         <tr>
             <td>
                 <label>
-                    15.	Vind je het leuk om te leren hoe je websites moet maken? - Antwoord is:
+                    14.	 Kan je beter uit een boek leren of digitaal? - Antwoord is:
                 </label>
             </td>
             <td>
                 <?php
                 $question15 = ($_POST['question15']);
                 echo $question15;
+                ?>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>
+                    15.	Vind je het leuk om te leren hoe je websites moet maken? - Antwoord is:
+                </label>
+            </td>
+            <td>
+                <?php
+                $question16 = ($_POST['question16']);
+                echo $question16;
                 ?>
             </td>
         </tr>
