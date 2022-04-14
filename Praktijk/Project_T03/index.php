@@ -14,6 +14,7 @@
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
         <title>ICT Academie</title>
         <link href="css/style.css" rel="stylesheet">
+        <link rel="icon" href="https://www.kw1c.nl/favicon-32x32.png?v=kw1cweb3">
         <link href="css/style_index.css" rel="stylesheet">
         <link href="css/navigation.css" rel="stylesheet">
         <script src="js/menu.js"></script>
@@ -32,10 +33,12 @@
             </h1>
         <article>
             <h2>
-                De Academie is leuk.
+                Het Koning Willem I College
             </h2>
             <p>
-                Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos explicabo facilis numquam, quos ratione reprehenderit sed suscipit voluptas. Assumenda et, explicabo odio perferendis praesentium sit voluptate! Animi cum fugit provident?
+                Welkom op de vernieuwde website van het KW1C, de school die kijkt naar de toekomst.
+                Nieuwe studenten hebben de mogelijkheid om gebruik te kunnen maken van de nieuwe zelftest.
+                Deze geeft jou een beeld wat jou misschien te wachten staat op een van de opleidingen op de ICT-Academie.
             </p>
         </article>
         <article>
@@ -43,12 +46,8 @@
                 Group Anonymous is de beste van de gehele academie.
             </h2>
             <p>
-                Lorem ipsum dolor sit amet.
-                Lorem ipsum dolor sit amet.
-                Lorem ipsum dolor sit amet.
-                Lorem ipsum dolor sit amet.
-                Lorem ipsum dolor sit amet.
-                Lorem ipsum dolor sit amet.
+                Wij (Groep Anonymous) hebben dankzij de leerzame & interesante lessen deze website in het eerste leerjaar van de grond weten op te bouwen.
+                Neem daarom zeker een kijkje op de status van de website op onze <a href="project_t03">GitHub</a>.
 
             </p>
         </article>
