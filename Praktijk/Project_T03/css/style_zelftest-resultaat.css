@@ -1,0 +1,29 @@
+/*
+  Author: Kaine van Ommeren & Daan Wolfert
+  Date: 31-03-2022
+  File: style_zelftest-resultaat.css
+ */
+body
+{
+    color: white;
+}
+footer
+{
+    position: fixed;
+    bottom: 0;
+}
+table
+{
+    margin-left: auto;
+    margin-right:auto;
+    background-color: #0085ca;
+    padding: 15px;
+}
+h3, h2
+{
+    text-align: center;
+}
+td
+{
+    padding-left: 10px;
+}

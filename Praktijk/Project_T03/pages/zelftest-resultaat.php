@@ -16,6 +16,7 @@
     <link rel="icon" href="https://www.kw1c.nl/favicon-32x32.png?v=kw1cweb3">
     <link href="../css/style.css" rel="stylesheet">
     <link href="../css/navigation.css" rel="stylesheet">
+    <link href="../css/style_zelftest-resultaat.css" rel="stylesheet">
 </head>
 <header>
     <?php
@@ -24,14 +25,10 @@
 </header>
 <body>
 <h2>
-    lorem ipsum dolor sit amet
+    Resultaten zelftest
 </h2>
 <form action="zelftest.php" method="get">
     <table>
-        <thead>
-        <h3 class="titleQuestion">Naam vraag
-        </h3>
-        </thead>
         <tbody>
         <tr>
             <td>
