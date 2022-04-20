@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="892dec6f-39b5-4bd1-ae76-5475ad18d5c1" name="Default Changelist" comment="" />
+    <list default="true" id="892dec6f-39b5-4bd1-ae76-5475ad18d5c1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Project_T03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style_zelftest.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style_zelftest.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/include/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/footer2.php" beforeDir="false" afterPath="$PROJECT_DIR$/include/footer2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/zelftest-resultaat.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/zelftest-resultaat.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/zelftest.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/zelftest.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +25,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 8.0" />
   <component name="ProjectId" id="276YIE2dARYbMkQzBooL4eI2hmL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -20,8 +33,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
@@ -36,6 +51,12 @@
       <option name="presentableId" value="Default" />
       <updated>1648641920357</updated>
       <workItem from="1648641921513" duration="300000" />
+      <workItem from="1649973481571" duration="13000" />
+      <workItem from="1650359341489" duration="9000" />
+      <workItem from="1650359397798" duration="5000" />
+      <workItem from="1650359415621" duration="21000" />
+      <workItem from="1650359453117" duration="3277000" />
+      <workItem from="1650454256885" duration="2668000" />
     </task>
     <servers />
   </component>
@@ -52,5 +73,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

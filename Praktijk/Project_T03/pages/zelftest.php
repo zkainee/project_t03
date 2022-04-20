@@ -31,7 +31,8 @@
             </h3>
             <p id="centerP">
                 Welkom op de vernieuwde zelftest<br>
-                Deze is gemaakt door onze excellente leerlingen genaamd: Daan Wolfert & Kaine van Ommeren.
+                Deze is gemaakt door onze excellente leerlingen genaamd: Daan Wolfert & Kaine van Ommeren.<br>
+                Per correcte vraag krijg je 40 punten, en per incorrecte vraag krijg je 20 punten.
             </p>
             </thead>
             <tbody>
@@ -240,6 +241,10 @@
         <h3>
             Druk op de bovenstaande knop om jouw test in te leveren.
         </h3>
+        <br>
+        <br>
+        <br>
+        <br>
     </body>
     <footer>
         <?php

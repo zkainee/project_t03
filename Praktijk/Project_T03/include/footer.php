@@ -6,7 +6,7 @@
 */
 ?>
 <p id="white">
-    Privacyverklaring
+    <a href="https://www.kw1c.nl/privacyverklaring" target="_blank">Privacyverklaring</a>
 </p>
 
 <a target="_blank" rel="instagram" href="http://instagram.com/kw1c">

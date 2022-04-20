@@ -10,8 +10,7 @@ body
 }
 footer
 {
-    position: relative;
-    bottom: 0;
+    position: fixed;
 }
 table
 {
@@ -37,7 +36,7 @@ h3, h2
 {
     footer
     {
-        position: absolute;
+        position: fixed;
         bottom: 0;
     }
 }

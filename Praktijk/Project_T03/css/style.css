@@ -30,6 +30,11 @@ footer {
 #white {
     color: white;
 }
+#white a
+{
+    text-decoration: none;
+    color: white;
+}
 #ictBackground
 {
     width: 100%;
